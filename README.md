@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Psy! 😁
+## Bem-vindo(a) ao perfil do Psy! 👾
 
  <div>
    <a href="https://github.com/Psy-GB">
